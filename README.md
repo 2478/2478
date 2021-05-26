@@ -2,7 +2,7 @@
 
 Myself Minarva a frontend web developer and designer. I 💖 contributing to open source 
 
-### skills
+### Skills
 
 
 Here are some ideas to get you started:
