@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minarva</h1>
 <h3 align="center">A passionate frontend designer/developer from India <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2478&label=Profile%20views&color=0e75b6&style=flat" alt="2478" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=2478&label=Profile%20views&color=0e75b6&style=flat" alt="2478" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2478" alt="2478" /></a> </p>
 
