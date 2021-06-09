@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **anything😀**
 
-- 📫 How to reach me: **minarva.das92@gmail.com**
+- 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-minarva.das92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minarva.das92@gmail.com)](mailto:minarva.das92@gmail.com)
 
 
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;  Languages and Tools:</h3>
