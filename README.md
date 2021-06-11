@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently **Pursuing B.TECH on Information Technology**
 
-- 🌱 I’m currently learning **Wordpress & React JS**
+- 🌱 I’m currently learning **React JS**
 
 - 🤝 I’m looking for help with **Backend Development**
 
