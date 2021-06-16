@@ -29,6 +29,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2478&show_icons=true&locale=en&layout=compact" alt="2478" /> </p>
 
-
+[![Minarva's github activity graph](https://activity-graph.herokuapp.com/graph?username=2478&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
