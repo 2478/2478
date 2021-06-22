@@ -42,3 +42,12 @@
 [![Minarva's github activity graph](https://activity-graph.herokuapp.com/graph?username=2478&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
+<details>
+<summary>
+  Projects I recently completed
+</summary>
+
+<br />
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=2478&repo=Food_Plaza)](https://github.com/2478/Food_Plaza)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=2478&repo=ECommerce_Website)](https://github.com/2478/ECommerce_Website)
