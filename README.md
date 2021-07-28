@@ -54,5 +54,6 @@
 
 <br />
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=2478&repo=Food_Plaza)](https://github.com/2478/Food_Plaza)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=2478&repo=Recipe_App)](https://github.com/2478/Recipe_App)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=2478&repo=Tic-Tac-Toe)](https://github.com/2478/Tic-Tac-Toe)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=2478&repo=ECommerce_Website)](https://github.com/2478/ECommerce_Website)
