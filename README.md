@@ -39,6 +39,20 @@
 <!-- <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> </code>
 <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"> </code> -->
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/minarva das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="minarva das" height="30" width="40" /></a>
+<a href="https://instagram.com/minarva__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minarva__" height="30" width="40" /></a>
+<a href="https://fb.com/mìñárvà dás" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mìñárvà dás" height="30" width="40" /></a>
+</p>
+
+
+
+
+
+
+
+
 <p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com/?user=2478&" alt="2478" /></p>
 
 <p align="center"> &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=2478&show_icons=true&locale=en" alt="2478" /></p>
