@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React JS & Angular JS**
 
-- 🤝 I’m looking for help with **Backend Development**
+<!--- 🤝 I’m looking for help with **Backend Development**-->
 
 - 💬 Ask me about **anything😀**
 
