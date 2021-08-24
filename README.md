@@ -65,4 +65,4 @@
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=2478&repo=Recipe_App)](https://github.com/2478/Recipe_App)
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=2478&repo=Netflix-Landing-Page)](https://2478.github.io/Netflix-Landing-Page/)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=2478&repo=Login_Form)]( https://2478.github.io/Login_Form/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=2478&repo=Animated_Login)]( https://2478.github.io/Animated_Login/)
