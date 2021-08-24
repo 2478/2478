@@ -64,5 +64,5 @@
 <br />
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=2478&repo=Recipe_App)](https://github.com/2478/Recipe_App)
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=2478&repo=Tic-Tac-Toe)](https://github.com/2478/Tic-Tac-Toe)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=2478&repo=ECommerce_Website)](https://github.com/2478/ECommerce_Website)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=2478&repo=Netflix-Landing-Page)](https://2478.github.io/Netflix-Landing-Page/)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=2478&repo=Login_Form)]( https://2478.github.io/Login_Form/)
