@@ -9,9 +9,9 @@
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; ***About me:***
 
-- 🔭 I’m currently **Pursuing B.TECH on Information Technology**
+- 🔭 I’m currently **Pursuing B.TECH on Information Technology** 
 
-- 🌱 I’m currently learning **React JS & Angular JS**
+<!-- - 🌱 I’m currently learning **React JS & Angular JS** -->
 
 <!--- 🤝 I’m looking for help with **Backend Development**-->
 
@@ -53,7 +53,7 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=2478&show_icons=true&locale=en&layout=compact" alt="2478" /> </p>
 
-[![Minarva's github activity graph](https://activity-graph.herokuapp.com/graph?username=2478&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!--[![Minarva's github activity graph](https://activity-graph.herokuapp.com/graph?username=2478&theme=rogue)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 
 <details>
