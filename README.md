@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Minarva</h1>
+<h1 align="center">Hi <!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">-->, I'm Minarva</h1>
 <h3 align="center">A 3rd year IT Engineering Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=2478&label=Profile%20views&color=0e75b6&style=flat" alt="2478" /> </p>
@@ -7,7 +7,8 @@
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; ***About me:***
+<!--<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;--> 
+**About me:**
 
 - 🔭 I’m currently **Pursuing B.TECH on Information Technology** 
 
@@ -20,7 +21,8 @@
 - 📫 How to reach me: [![Gmail Badge](https://img.shields.io/badge/-minarva.das92@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:minarva.das92@gmail.com)](mailto:minarva.das92@gmail.com)
 
 
-<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;  Languages and Tools:</h3>
+<h3 align="left"><!--<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;-->  
+  Languages and Tools:</h3>
 <p align="left"> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
 <img src = 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.RQ8rlvfppN1r1CA-mufW0QHaHa%26pid%3DApi&f=1' width='40'/>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
