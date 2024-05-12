@@ -10,7 +10,7 @@
 <!--<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;--> 
 **About me:**
 
-- 🔭 I’m currently **Pursuing B.TECH on Information Technology** 
+- 🔭 I have completed **B.TECH in Information Technology** 
 
 <!-- - 🌱 I’m currently learning **React JS** -->
 
