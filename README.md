@@ -1,5 +1,5 @@
 <h1 align="center">Hi <!--<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">-->, I'm Minarva</h1>
-<h3 align="center">A Final year IT Engineering Student<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
+<h3 align="center">An Enthusiastic Learner<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=2478&label=Profile%20views&color=0e75b6&style=flat" alt="2478" /> </p>
 
